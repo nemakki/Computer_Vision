@@ -86,3 +86,6 @@ function draw() {
 function mousePressed() {
   clear();
 }
+
+
+
